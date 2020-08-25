@@ -8,7 +8,7 @@ Golang implemented high currency rdns server with zone data save in mongodb
 
 ## Save zone data into mongodb
 According to [elgs/dns-zonefile](https://github.com/elgs/dns-zonefile), now we can parse and generate zone file in JSON format.
-Therefore, we can easily save it into mongodb
+Therefore, we can easily save it into mongodb.
 
 ## Compile and setup
 To compile this application, run the following command:
