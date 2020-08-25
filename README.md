@@ -13,7 +13,7 @@ Therefore, we can easily save it into mongodb.
 ## Compile and setup
 To compile this application, run the following command:
 ```
-$ cd <path-to-reposity-dir>
+$ cd <path-to-workfolder>
 $ go build
 ```
 
