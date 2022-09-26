@@ -23,7 +23,7 @@ $ ./rdns-mongo
 ```
 
 ## Performance Testing
-We run a stress testing with [dnsperf](https://github.com/DNS-OARC/dnsperf), and from the output we get a **6,000 qps** result.
+We run a stress testing with [dnsperf](https://github.com/DNS-OARC/dnsperf) on a 1 cpu, 2G ram VM, and from the output we get a **6,000 qps** result.
 
 ```shell
 DNS Performance Testing Tool
