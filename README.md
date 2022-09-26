@@ -23,7 +23,7 @@ $ ./rdns-mongo
 ```
 
 ## Performance Testing
-We run a stress testing with [dnsperf](https://github.com/DNS-OARC/dnsperf) on a 1 CPU Core, 2 GB RAM VM, and the throughput is **6,000 qps**.
+We run a stress testing with [dnsperf](https://github.com/DNS-OARC/dnsperf) on a 1 CPU Core, 2 GB RAM virtual machine, and the throughput is **6,000 qps**.
 
 ```shell
 DNS Performance Testing Tool
